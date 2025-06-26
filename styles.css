@@ -1,0 +1,36 @@
+#image{
+    max-width: 100%;
+    display: block;
+    align-content: center;
+    margin: auto;
+}
+figcaption{
+    text-align: center
+}
+
+body{
+    background-color: #6895D2;
+}
+
+h1{
+    background-color: #D04848;
+    text-align: center;
+}
+
+#tribute-info{
+    background-color: #FFFDF0;
+    text-align: center;
+    margin: auto;
+    max-width: 75%;
+    min-width: 362px;
+}
+
+#tribute-info > ul{
+display: inline-block;
+text-align: left;
+}
+
+a{
+    color: yellow;
+    font-weight: bold;
+}
